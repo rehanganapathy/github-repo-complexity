@@ -2,3 +2,4 @@ flask
 openai
 radon
 requests
+gunicorn==19.7.1
