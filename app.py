@@ -9,7 +9,7 @@ from radon.complexity import cc_visit
 
 app = Flask(__name__)
 
-openai.api_key = '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'
+openai.api_key = ''
 
 
 def calculate_cyclomatic_complexity(code):
